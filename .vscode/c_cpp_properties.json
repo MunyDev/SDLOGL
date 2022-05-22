@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "abc2",
+            "includePath": [
+                "C:\\Users\\avadh\\emsdk\\upstream\\emscripten\\system\\include\\**",
+                "C:\\Users\\avadh\\emsdk\\fastcomp\\emscripten\\cache\\asmjs\\ports-builds\\sdl2\\include\\**",
+                "C:\\Users\\avadh\\emsdk\\fastcomp\\emscripten\\system\\lib\\libc\\musl\\arch\\emscripten\\**",
+                "C:\\Users\\avadh\\emsdk\\fastcomp\\emscripten\\system\\include\\libc\\**",
+                "C:\\Users\\avadh\\emsdk\\fastcomp\\emscripten\\system\\include\\**",
+                "C:\\Users\\avadh\\emsdk\\fastcomp\\emscripten\\system\\include\\compat\\**",
+                "C:\\Users\\avadh\\emsdk\\fastcomp\\emscripten\\system\\lib\\libcxxabi\\include\\**",
+                "C:\\Users\\avadh\\emsdk\\fastcomp\\emscripten\\system\\include\\libcxx\\**"
+
+            ],
+            "intelliSenseMode": "windows-msvc-x64",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
