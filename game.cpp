@@ -12,7 +12,7 @@
 
 #include <emscripten.h>
 extern "C" {    
-   #include "html5.h" // emscripten module
+   #include <emscripten/html5.h> // emscripten module
 }
 #include <emscripten/fetch.h>
 using namespace std;
